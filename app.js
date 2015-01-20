@@ -2,7 +2,7 @@ window.addEventListener("load", function() {
   console.log("Hello World!");
   initMap('map');
 });
-
+//
 
 var map = null;
 var sidebar = null;
